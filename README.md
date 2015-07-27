@@ -26,7 +26,7 @@ This is how a color entry looks like:
     "hue": 0,
     "saturation": 1,
     "value": 1,
-    "lightness": 0.5
+    "lightness": 0.5,
     "black": 0,
     "cyan": 0,
     "magenta": 1,
@@ -36,26 +36,26 @@ This is how a color entry looks like:
 
 ### RGB values
 
-red: 0 … 255
-green: 0 … 255
-blue: 0 … 255
+- red: 0 … 255
+- green: 0 … 255
+- blue: 0 … 255
 
 ### HSL values
 
-hue: degrees, 0 … 360
-saturation: 0 … 1
-lightness: 0 … 1
+- hue: degrees, 0 … 360
+- saturation: 0 … 1
+- lightness: 0 … 1
 
 ### HSV values
 
-value: 0 … 1
+- value: 0 … 1
 
 ### CMYK values
 
-black: 0 … 1
-cyan: 0 … 1
-magenta: 0 … 1
-yellow: 0 … 1
+- black: 0 … 1
+- cyan: 0 … 1
+- magenta: 0 … 1
+- yellow: 0 … 1
 
 
 ## Build resources
