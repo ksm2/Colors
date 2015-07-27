@@ -1,0 +1,1131 @@
+[
+  {
+  	"name": "alice_blue",
+    "html": "AliceBlue",
+    "hex": "#F0F8FF",
+    "translations": {
+      "en": "alice blue"
+    }
+  },
+  {
+  	"name": "antique_white",
+    "html": "AntiqueWhite",
+    "hex": "#FAEBD7",
+    "translations": {
+      "en": "antique white"
+    }
+  },
+  {
+  	"name": "aqua",
+    "html": "Aqua",
+    "hex": "#00FFFF",
+    "translations": {
+      "en": "aqua"
+    }
+  },
+  {
+  	"name": "aquamarine",
+    "html": "Aquamarine",
+    "hex": "#7FFFD4",
+    "translations": {
+      "en": "aquamarine"
+    }
+  },
+  {
+  	"name": "azure",
+    "html": "Azure",
+    "hex": "#F0FFFF",
+    "translations": {
+      "en": "azure"
+    }
+  },
+  {
+  	"name": "beige",
+    "html": "Beige",
+    "hex": "#F5F5DC",
+    "translations": {
+      "en": "beige"
+    }
+  },
+  {
+  	"name": "bisque",
+    "html": "Bisque",
+    "hex": "#FFE4C4",
+    "translations": {
+      "en": "bisque"
+    }
+  },
+  {
+  	"name": "black",
+    "html": "Black",
+    "hex": "#000000",
+    "translations": {
+      "en": "black"
+    }
+  },
+  {
+  	"name": "blanched_almond",
+    "html": "BlanchedAlmond",
+    "hex": "#FFEBCD",
+    "translations": {
+      "en": "blanched almond"
+    }
+  },
+  {
+  	"name": "blue",
+    "html": "Blue",
+    "hex": "#0000FF",
+    "translations": {
+      "en": "blue"
+    }
+  },
+  {
+  	"name": "blue_violet",
+    "html": "BlueViolet",
+    "hex": "#8A2BE2",
+    "translations": {
+      "en": "blue violet"
+    }
+  },
+  {
+  	"name": "brown",
+    "html": "Brown",
+    "hex": "#A52A2A",
+    "translations": {
+      "en": "brown"
+    }
+  },
+  {
+  	"name": "burly_wood",
+    "html": "BurlyWood",
+    "hex": "#DEB887",
+    "translations": {
+      "en": "burly wood"
+    }
+  },
+  {
+  	"name": "cadet_blue",
+    "html": "CadetBlue",
+    "hex": "#5F9EA0",
+    "translations": {
+      "en": "cadet blue"
+    }
+  },
+  {
+  	"name": "chartreuse",
+    "html": "Chartreuse",
+    "hex": "#7FFF00",
+    "translations": {
+      "en": "chartreuse"
+    }
+  },
+  {
+  	"name": "chocolate",
+    "html": "Chocolate",
+    "hex": "#D2691E",
+    "translations": {
+      "en": "chocolate"
+    }
+  },
+  {
+  	"name": "coral",
+    "html": "Coral",
+    "hex": "#FF7F50",
+    "translations": {
+      "en": "coral"
+    }
+  },
+  {
+  	"name": "cornflower_blue",
+    "html": "CornflowerBlue",
+    "hex": "#6495ED",
+    "translations": {
+      "en": "cornflower blue"
+    }
+  },
+  {
+  	"name": "cornsilk",
+    "html": "Cornsilk",
+    "hex": "#FFF8DC",
+    "translations": {
+      "en": "cornsilk"
+    }
+  },
+  {
+  	"name": "crimson",
+    "html": "Crimson",
+    "hex": "#DC143C",
+    "translations": {
+      "en": "crimson"
+    }
+  },
+  {
+  	"name": "cyan",
+    "html": "Cyan",
+    "hex": "#00FFFF",
+    "translations": {
+      "en": "cyan"
+    }
+  },
+  {
+  	"name": "dark_blue",
+    "html": "DarkBlue",
+    "hex": "#00008B",
+    "translations": {
+      "en": "dark blue"
+    }
+  },
+  {
+  	"name": "dark_cyan",
+    "html": "DarkCyan",
+    "hex": "#008B8B",
+    "translations": {
+      "en": "dark cyan"
+    }
+  },
+  {
+  	"name": "dark_golden_rod",
+    "html": "DarkGoldenRod",
+    "hex": "#B8860B",
+    "translations": {
+      "en": "dark golden rod"
+    }
+  },
+  {
+  	"name": "dark_gray",
+    "html": "DarkGray",
+    "hex": "#A9A9A9",
+    "translations": {
+      "en": "dark gray"
+    }
+  },
+  {
+  	"name": "dark_green",
+    "html": "DarkGreen",
+    "hex": "#006400",
+    "translations": {
+      "en": "dark green"
+    }
+  },
+  {
+  	"name": "dark_khaki",
+    "html": "DarkKhaki",
+    "hex": "#BDB76B",
+    "translations": {
+      "en": "dark khaki"
+    }
+  },
+  {
+  	"name": "dark_magenta",
+    "html": "DarkMagenta",
+    "hex": "#8B008B",
+    "translations": {
+      "en": "dark magenta"
+    }
+  },
+  {
+  	"name": "dark_olive_green",
+    "html": "DarkOliveGreen",
+    "hex": "#556B2F",
+    "translations": {
+      "en": "dark olive green"
+    }
+  },
+  {
+  	"name": "dark_orange",
+    "html": "DarkOrange",
+    "hex": "#FF8C00",
+    "translations": {
+      "en": "dark orange"
+    }
+  },
+  {
+  	"name": "dark_orchid",
+    "html": "DarkOrchid",
+    "hex": "#9932CC",
+    "translations": {
+      "en": "dark orchid"
+    }
+  },
+  {
+  	"name": "dark_red",
+    "html": "DarkRed",
+    "hex": "#8B0000",
+    "translations": {
+      "en": "dark red"
+    }
+  },
+  {
+  	"name": "dark_salmon",
+    "html": "DarkSalmon",
+    "hex": "#E9967A",
+    "translations": {
+      "en": "dark salmon"
+    }
+  },
+  {
+  	"name": "dark_sea_green",
+    "html": "DarkSeaGreen",
+    "hex": "#8FBC8F",
+    "translations": {
+      "en": "dark sea green"
+    }
+  },
+  {
+  	"name": "dark_slate_blue",
+    "html": "DarkSlateBlue",
+    "hex": "#483D8B",
+    "translations": {
+      "en": "dark slate blue"
+    }
+  },
+  {
+  	"name": "dark_slate_gray",
+    "html": "DarkSlateGray",
+    "hex": "#2F4F4F",
+    "translations": {
+      "en": "dark slate gray"
+    }
+  },
+  {
+  	"name": "dark_turquoise",
+    "html": "DarkTurquoise",
+    "hex": "#00CED1",
+    "translations": {
+      "en": "dark turquoise"
+    }
+  },
+  {
+  	"name": "dark_violet",
+    "html": "DarkViolet",
+    "hex": "#9400D3",
+    "translations": {
+      "en": "dark violet"
+    }
+  },
+  {
+  	"name": "deep_pink",
+    "html": "DeepPink",
+    "hex": "#FF1493",
+    "translations": {
+      "en": "deep pink"
+    }
+  },
+  {
+  	"name": "deep_sky_blue",
+    "html": "DeepSkyBlue",
+    "hex": "#00BFFF",
+    "translations": {
+      "en": "deep sky blue"
+    }
+  },
+  {
+  	"name": "dim_gray",
+    "html": "DimGray",
+    "hex": "#696969",
+    "translations": {
+      "en": "dim gray"
+    }
+  },
+  {
+  	"name": "dodger_blue",
+    "html": "DodgerBlue",
+    "hex": "#1E90FF",
+    "translations": {
+      "en": "dodger blue"
+    }
+  },
+  {
+  	"name": "fire_brick",
+    "html": "FireBrick",
+    "hex": "#B22222",
+    "translations": {
+      "en": "fire brick"
+    }
+  },
+  {
+  	"name": "floral_white",
+    "html": "FloralWhite",
+    "hex": "#FFFAF0",
+    "translations": {
+      "en": "floral white"
+    }
+  },
+  {
+  	"name": "forest_green",
+    "html": "ForestGreen",
+    "hex": "#228B22",
+    "translations": {
+      "en": "forest green"
+    }
+  },
+  {
+  	"name": "fuchsia",
+    "html": "Fuchsia",
+    "hex": "#FF00FF",
+    "translations": {
+      "en": "fuchsia"
+    }
+  },
+  {
+  	"name": "gainsboro",
+    "html": "Gainsboro",
+    "hex": "#DCDCDC",
+    "translations": {
+      "en": "gainsboro"
+    }
+  },
+  {
+  	"name": "ghost_white",
+    "html": "GhostWhite",
+    "hex": "#F8F8FF",
+    "translations": {
+      "en": "ghost white"
+    }
+  },
+  {
+  	"name": "gold",
+    "html": "Gold",
+    "hex": "#FFD700",
+    "translations": {
+      "en": "gold"
+    }
+  },
+  {
+  	"name": "golden_rod",
+    "html": "GoldenRod",
+    "hex": "#DAA520",
+    "translations": {
+      "en": "golden rod"
+    }
+  },
+  {
+  	"name": "gray",
+    "html": "Gray",
+    "hex": "#808080",
+    "translations": {
+      "en": "gray"
+    }
+  },
+  {
+  	"name": "green",
+    "html": "Green",
+    "hex": "#008000",
+    "translations": {
+      "en": "green"
+    }
+  },
+  {
+  	"name": "green_yellow",
+    "html": "GreenYellow",
+    "hex": "#ADFF2F",
+    "translations": {
+      "en": "green yellow"
+    }
+  },
+  {
+  	"name": "honey_dew",
+    "html": "HoneyDew",
+    "hex": "#F0FFF0",
+    "translations": {
+      "en": "honey dew"
+    }
+  },
+  {
+  	"name": "hot_pink",
+    "html": "HotPink",
+    "hex": "#FF69B4",
+    "translations": {
+      "en": "hot pink"
+    }
+  },
+  {
+  	"name": "indian_red",
+    "html": "IndianRed",
+    "hex": "#CD5C5C",
+    "translations": {
+      "en": "indian red"
+    }
+  },
+  {
+  	"name": "indigo",
+    "html": "Indigo",
+    "hex": "#4B0082",
+    "translations": {
+      "en": "indigo"
+    }
+  },
+  {
+  	"name": "ivory",
+    "html": "Ivory",
+    "hex": "#FFFFF0",
+    "translations": {
+      "en": "ivory"
+    }
+  },
+  {
+  	"name": "khaki",
+    "html": "Khaki",
+    "hex": "#F0E68C",
+    "translations": {
+      "en": "khaki"
+    }
+  },
+  {
+  	"name": "lavender",
+    "html": "Lavender",
+    "hex": "#E6E6FA",
+    "translations": {
+      "en": "lavender"
+    }
+  },
+  {
+  	"name": "lavender_blush",
+    "html": "LavenderBlush",
+    "hex": "#FFF0F5",
+    "translations": {
+      "en": "lavender blush"
+    }
+  },
+  {
+  	"name": "lawn_green",
+    "html": "LawnGreen",
+    "hex": "#7CFC00",
+    "translations": {
+      "en": "lawn green"
+    }
+  },
+  {
+  	"name": "lemon_chiffon",
+    "html": "LemonChiffon",
+    "hex": "#FFFACD",
+    "translations": {
+      "en": "lemon chiffon"
+    }
+  },
+  {
+  	"name": "light_blue",
+    "html": "LightBlue",
+    "hex": "#ADD8E6",
+    "translations": {
+      "en": "light blue"
+    }
+  },
+  {
+  	"name": "light_coral",
+    "html": "LightCoral",
+    "hex": "#F08080",
+    "translations": {
+      "en": "light coral"
+    }
+  },
+  {
+  	"name": "light_cyan",
+    "html": "LightCyan",
+    "hex": "#E0FFFF",
+    "translations": {
+      "en": "light cyan"
+    }
+  },
+  {
+  	"name": "light_golden_rod_yellow",
+    "html": "LightGoldenRodYellow",
+    "hex": "#FAFAD2",
+    "translations": {
+      "en": "light golden rod yellow"
+    }
+  },
+  {
+  	"name": "light_gray",
+    "html": "LightGray",
+    "hex": "#D3D3D3",
+    "translations": {
+      "en": "light gray"
+    }
+  },
+  {
+  	"name": "light_green",
+    "html": "LightGreen",
+    "hex": "#90EE90",
+    "translations": {
+      "en": "light green"
+    }
+  },
+  {
+  	"name": "light_pink",
+    "html": "LightPink",
+    "hex": "#FFB6C1",
+    "translations": {
+      "en": "light pink"
+    }
+  },
+  {
+  	"name": "light_salmon",
+    "html": "LightSalmon",
+    "hex": "#FFA07A",
+    "translations": {
+      "en": "light salmon"
+    }
+  },
+  {
+  	"name": "light_sea_green",
+    "html": "LightSeaGreen",
+    "hex": "#20B2AA",
+    "translations": {
+      "en": "light sea green"
+    }
+  },
+  {
+  	"name": "light_sky_blue",
+    "html": "LightSkyBlue",
+    "hex": "#87CEFA",
+    "translations": {
+      "en": "light sky blue"
+    }
+  },
+  {
+  	"name": "light_slate_gray",
+    "html": "LightSlateGray",
+    "hex": "#778899",
+    "translations": {
+      "en": "light slate gray"
+    }
+  },
+  {
+  	"name": "light_steel_blue",
+    "html": "LightSteelBlue",
+    "hex": "#B0C4DE",
+    "translations": {
+      "en": "light steel blue"
+    }
+  },
+  {
+  	"name": "light_yellow",
+    "html": "LightYellow",
+    "hex": "#FFFFE0",
+    "translations": {
+      "en": "light yellow"
+    }
+  },
+  {
+  	"name": "lime",
+    "html": "Lime",
+    "hex": "#00FF00",
+    "translations": {
+      "en": "lime"
+    }
+  },
+  {
+  	"name": "lime_green",
+    "html": "LimeGreen",
+    "hex": "#32CD32",
+    "translations": {
+      "en": "lime green"
+    }
+  },
+  {
+  	"name": "linen",
+    "html": "Linen",
+    "hex": "#FAF0E6",
+    "translations": {
+      "en": "linen"
+    }
+  },
+  {
+  	"name": "magenta",
+    "html": "Magenta",
+    "hex": "#FF00FF",
+    "translations": {
+      "en": "magenta"
+    }
+  },
+  {
+  	"name": "maroon",
+    "html": "Maroon",
+    "hex": "#800000",
+    "translations": {
+      "en": "maroon"
+    }
+  },
+  {
+  	"name": "medium_aqua_marine",
+    "html": "MediumAquaMarine",
+    "hex": "#66CDAA",
+    "translations": {
+      "en": "medium aqua marine"
+    }
+  },
+  {
+  	"name": "medium_blue",
+    "html": "MediumBlue",
+    "hex": "#0000CD",
+    "translations": {
+      "en": "medium blue"
+    }
+  },
+  {
+  	"name": "medium_orchid",
+    "html": "MediumOrchid",
+    "hex": "#BA55D3",
+    "translations": {
+      "en": "medium orchid"
+    }
+  },
+  {
+  	"name": "medium_purple",
+    "html": "MediumPurple",
+    "hex": "#9370DB",
+    "translations": {
+      "en": "medium purple"
+    }
+  },
+  {
+  	"name": "medium_sea_green",
+    "html": "MediumSeaGreen",
+    "hex": "#3CB371",
+    "translations": {
+      "en": "medium sea green"
+    }
+  },
+  {
+  	"name": "medium_slate_blue",
+    "html": "MediumSlateBlue",
+    "hex": "#7B68EE",
+    "translations": {
+      "en": "medium slate blue"
+    }
+  },
+  {
+  	"name": "medium_spring_green",
+    "html": "MediumSpringGreen",
+    "hex": "#00FA9A",
+    "translations": {
+      "en": "medium spring green"
+    }
+  },
+  {
+  	"name": "medium_turquoise",
+    "html": "MediumTurquoise",
+    "hex": "#48D1CC",
+    "translations": {
+      "en": "medium turquoise"
+    }
+  },
+  {
+  	"name": "medium_violet_red",
+    "html": "MediumVioletRed",
+    "hex": "#C71585",
+    "translations": {
+      "en": "medium violet red"
+    }
+  },
+  {
+  	"name": "midnight_blue",
+    "html": "MidnightBlue",
+    "hex": "#191970",
+    "translations": {
+      "en": "midnight blue"
+    }
+  },
+  {
+  	"name": "mint_cream",
+    "html": "MintCream",
+    "hex": "#F5FFFA",
+    "translations": {
+      "en": "mint cream"
+    }
+  },
+  {
+  	"name": "misty_rose",
+    "html": "MistyRose",
+    "hex": "#FFE4E1",
+    "translations": {
+      "en": "misty rose"
+    }
+  },
+  {
+  	"name": "moccasin",
+    "html": "Moccasin",
+    "hex": "#FFE4B5",
+    "translations": {
+      "en": "moccasin"
+    }
+  },
+  {
+  	"name": "navajo_white",
+    "html": "NavajoWhite",
+    "hex": "#FFDEAD",
+    "translations": {
+      "en": "navajo white"
+    }
+  },
+  {
+  	"name": "navy",
+    "html": "Navy",
+    "hex": "#000080",
+    "translations": {
+      "en": "navy"
+    }
+  },
+  {
+  	"name": "old_lace",
+    "html": "OldLace",
+    "hex": "#FDF5E6",
+    "translations": {
+      "en": "old lace"
+    }
+  },
+  {
+  	"name": "olive",
+    "html": "Olive",
+    "hex": "#808000",
+    "translations": {
+      "en": "olive"
+    }
+  },
+  {
+  	"name": "olive_drab",
+    "html": "OliveDrab",
+    "hex": "#6B8E23",
+    "translations": {
+      "en": "olive drab"
+    }
+  },
+  {
+  	"name": "orange",
+    "html": "Orange",
+    "hex": "#FFA500",
+    "translations": {
+      "en": "orange"
+    }
+  },
+  {
+  	"name": "orange_red",
+    "html": "OrangeRed",
+    "hex": "#FF4500",
+    "translations": {
+      "en": "orange red"
+    }
+  },
+  {
+  	"name": "orchid",
+    "html": "Orchid",
+    "hex": "#DA70D6",
+    "translations": {
+      "en": "orchid"
+    }
+  },
+  {
+  	"name": "pale_golden_rod",
+    "html": "PaleGoldenRod",
+    "hex": "#EEE8AA",
+    "translations": {
+      "en": "pale golden rod"
+    }
+  },
+  {
+  	"name": "pale_green",
+    "html": "PaleGreen",
+    "hex": "#98FB98",
+    "translations": {
+      "en": "pale green"
+    }
+  },
+  {
+  	"name": "pale_turquoise",
+    "html": "PaleTurquoise",
+    "hex": "#AFEEEE",
+    "translations": {
+      "en": "pale turquoise"
+    }
+  },
+  {
+  	"name": "pale_violet_red",
+    "html": "PaleVioletRed",
+    "hex": "#DB7093",
+    "translations": {
+      "en": "pale violet red"
+    }
+  },
+  {
+  	"name": "papaya_whip",
+    "html": "PapayaWhip",
+    "hex": "#FFEFD5",
+    "translations": {
+      "en": "papaya whip"
+    }
+  },
+  {
+  	"name": "peach_puff",
+    "html": "PeachPuff",
+    "hex": "#FFDAB9",
+    "translations": {
+      "en": "peach puff"
+    }
+  },
+  {
+  	"name": "peru",
+    "html": "Peru",
+    "hex": "#CD853F",
+    "translations": {
+      "en": "peru"
+    }
+  },
+  {
+  	"name": "pink",
+    "html": "Pink",
+    "hex": "#FFC0CB",
+    "translations": {
+      "en": "pink"
+    }
+  },
+  {
+  	"name": "plum",
+    "html": "Plum",
+    "hex": "#DDA0DD",
+    "translations": {
+      "en": "plum"
+    }
+  },
+  {
+  	"name": "powder_blue",
+    "html": "PowderBlue",
+    "hex": "#B0E0E6",
+    "translations": {
+      "en": "powder blue"
+    }
+  },
+  {
+  	"name": "purple",
+    "html": "Purple",
+    "hex": "#800080",
+    "translations": {
+      "en": "purple"
+    }
+  },
+  {
+  	"name": "rebecca_purple",
+    "html": "RebeccaPurple",
+    "hex": "#663399",
+    "translations": {
+      "en": "rebecca purple"
+    }
+  },
+  {
+  	"name": "red",
+    "html": "Red",
+    "hex": "#FF0000",
+    "translations": {
+      "en": "red"
+    }
+  },
+  {
+  	"name": "rosy_brown",
+    "html": "RosyBrown",
+    "hex": "#BC8F8F",
+    "translations": {
+      "en": "rosy brown"
+    }
+  },
+  {
+  	"name": "royal_blue",
+    "html": "RoyalBlue",
+    "hex": "#4169E1",
+    "translations": {
+      "en": "royal blue"
+    }
+  },
+  {
+  	"name": "saddle_brown",
+    "html": "SaddleBrown",
+    "hex": "#8B4513",
+    "translations": {
+      "en": "saddle brown"
+    }
+  },
+  {
+  	"name": "salmon",
+    "html": "Salmon",
+    "hex": "#FA8072",
+    "translations": {
+      "en": "salmon"
+    }
+  },
+  {
+  	"name": "sandy_brown",
+    "html": "SandyBrown",
+    "hex": "#F4A460",
+    "translations": {
+      "en": "sandy brown"
+    }
+  },
+  {
+  	"name": "sea_green",
+    "html": "SeaGreen",
+    "hex": "#2E8B57",
+    "translations": {
+      "en": "sea green"
+    }
+  },
+  {
+  	"name": "sea_shell",
+    "html": "SeaShell",
+    "hex": "#FFF5EE",
+    "translations": {
+      "en": "sea shell"
+    }
+  },
+  {
+  	"name": "sienna",
+    "html": "Sienna",
+    "hex": "#A0522D",
+    "translations": {
+      "en": "sienna"
+    }
+  },
+  {
+  	"name": "silver",
+    "html": "Silver",
+    "hex": "#C0C0C0",
+    "translations": {
+      "en": "silver"
+    }
+  },
+  {
+  	"name": "sky_blue",
+    "html": "SkyBlue",
+    "hex": "#87CEEB",
+    "translations": {
+      "en": "sky blue"
+    }
+  },
+  {
+  	"name": "slate_blue",
+    "html": "SlateBlue",
+    "hex": "#6A5ACD",
+    "translations": {
+      "en": "slate blue"
+    }
+  },
+  {
+  	"name": "slate_gray",
+    "html": "SlateGray",
+    "hex": "#708090",
+    "translations": {
+      "en": "slate gray"
+    }
+  },
+  {
+  	"name": "snow",
+    "html": "Snow",
+    "hex": "#FFFAFA",
+    "translations": {
+      "en": "snow"
+    }
+  },
+  {
+  	"name": "spring_green",
+    "html": "SpringGreen",
+    "hex": "#00FF7F",
+    "translations": {
+      "en": "spring green"
+    }
+  },
+  {
+  	"name": "steel_blue",
+    "html": "SteelBlue",
+    "hex": "#4682B4",
+    "translations": {
+      "en": "steel blue"
+    }
+  },
+  {
+  	"name": "tan",
+    "html": "Tan",
+    "hex": "#D2B48C",
+    "translations": {
+      "en": "tan"
+    }
+  },
+  {
+  	"name": "teal",
+    "html": "Teal",
+    "hex": "#008080",
+    "translations": {
+      "en": "teal"
+    }
+  },
+  {
+  	"name": "thistle",
+    "html": "Thistle",
+    "hex": "#D8BFD8",
+    "translations": {
+      "en": "thistle"
+    }
+  },
+  {
+  	"name": "tomato",
+    "html": "Tomato",
+    "hex": "#FF6347",
+    "translations": {
+      "en": "tomato"
+    }
+  },
+  {
+  	"name": "turquoise",
+    "html": "Turquoise",
+    "hex": "#40E0D0",
+    "translations": {
+      "en": "turquoise"
+    }
+  },
+  {
+  	"name": "violet",
+    "html": "Violet",
+    "hex": "#EE82EE",
+    "translations": {
+      "en": "violet"
+    }
+  },
+  {
+  	"name": "wheat",
+    "html": "Wheat",
+    "hex": "#F5DEB3",
+    "translations": {
+      "en": "wheat"
+    }
+  },
+  {
+  	"name": "white",
+    "html": "White",
+    "hex": "#FFFFFF",
+    "translations": {
+      "en": "white"
+    }
+  },
+  {
+  	"name": "white_smoke",
+    "html": "WhiteSmoke",
+    "hex": "#F5F5F5",
+    "translations": {
+      "en": "white smoke"
+    }
+  },
+  {
+  	"name": "yellow",
+    "html": "Yellow",
+    "hex": "#FFFF00",
+    "translations": {
+      "en": "yellow"
+    }
+  },
+  {
+  	"name": "yellow_green",
+    "html": "YellowGreen",
+    "hex": "#9ACD32",
+    "translations": {
+      "en": "yellow green"
+    }
+  }
+]
+
