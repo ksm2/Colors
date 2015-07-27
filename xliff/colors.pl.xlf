@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<xliff version="1.2"
+       xmlns="urn:oasis:names:tc:xliff:document:1.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2.xsd">
+    <file original="colors.json" source-language="en" target-language="pl" datatype="plaintext">
+        <body>
+            <trans-unit id="alice_blue">
+                <source>alice blue</source>
+                <target>aliceniebieski</target>
+            </trans-unit>
+            <trans-unit id="beige">
+                <source>beige</source>
+                <target>beżowy</target>
+            </trans-unit>
+            <trans-unit id="bisque">
+                <source>bisque</source>
+                <target>biszkopt</target>
+            </trans-unit>
+            <trans-unit id="black">
+                <source>black</source>
+                <target>czarny</target>
+            </trans-unit>
+            <trans-unit id="blue">
+                <source>blue</source>
+                <target>niebieski</target>
+            </trans-unit>
+            <trans-unit id="blue_violet">
+                <source>blue violet</source>
+                <target>fioletowy</target>
+            </trans-unit>
+            <trans-unit id="brown">
+                <source>brown</source>
+                <target>brązowy</target>
+            </trans-unit>
+            <trans-unit id="cyan">
+                <source>cyan</source>
+                <target>cyjan</target>
+            </trans-unit>
+            <trans-unit id="dark_blue">
+                <source>dark blue</source>
+                <target>ciemnoniebieski</target>
+            </trans-unit>
+            <trans-unit id="dark_cyan">
+                <source>dark cyan</source>
+                <target>ciemnocyjan</target>
+            </trans-unit>
+            <trans-unit id="dark_gray">
+                <source>dark gray</source>
+                <target>ciemnoszary</target>
+            </trans-unit>
+            <trans-unit id="dark_green">
+                <source>dark green</source>
+                <target>ciemnozielony</target>
+            </trans-unit>
+            <trans-unit id="dark_orange">
+                <source>dark orange</source>
+                <target>ciemnopomarańczowy</target>
+            </trans-unit>
+            <trans-unit id="dark_violet">
+                <source>dark violet</source>
+                <target>ciemnofioletowy</target>
+            </trans-unit>
+            <trans-unit id="gold">
+                <source>gold</source>
+                <target>złoty</target>
+            </trans-unit>
+            <trans-unit id="gray">
+                <source>gray</source>
+                <target>szary</target>
+            </trans-unit>
+            <trans-unit id="green">
+                <source>green</source>
+                <target>zielony</target>
+            </trans-unit>
+            <trans-unit id="light_blue">
+                <source>light blue</source>
+                <target>jasnoniebieski</target>
+            </trans-unit>
+            <trans-unit id="light_cyan">
+                <source>light cyan</source>
+                <target>jasnocyjan</target>
+            </trans-unit>
+            <trans-unit id="light_gray">
+                <source>light gray</source>
+                <target>jasnoszary</target>
+            </trans-unit>
+            <trans-unit id="light_green">
+                <source>light green</source>
+                <target>jasnozielony</target>
+            </trans-unit>
+            <trans-unit id="light_yellow">
+                <source>light yellow</source>
+                <target>jasnożółty</target>
+            </trans-unit>
+            <trans-unit id="magenta">
+                <source>magenta</source>
+                <target>magentowy</target>
+            </trans-unit>
+            <trans-unit id="orange">
+                <source>orange</source>
+                <target>pomarańczowy</target>
+            </trans-unit>
+            <trans-unit id="purple">
+                <source>purple</source>
+                <target>fioletowy</target>
+            </trans-unit>
+            <trans-unit id="red">
+                <source>red</source>
+                <target>czerwony</target>
+            </trans-unit>
+            <trans-unit id="silver">
+                <source>silver</source>
+                <target>srebrny</target>
+            </trans-unit>
+            <trans-unit id="turquoise">
+                <source>turquoise</source>
+                <target>turkusowy</target>
+            </trans-unit>
+            <trans-unit id="violet">
+                <source>violet</source>
+                <target>fioletowy</target>
+            </trans-unit>
+            <trans-unit id="white">
+                <source>white</source>
+                <target>biały</target>
+            </trans-unit>
+            <trans-unit id="yellow">
+                <source>yellow</source>
+                <target>żółty</target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>
