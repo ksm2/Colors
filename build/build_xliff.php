@@ -7,7 +7,6 @@
 $file = __DIR__ . '/../colors.json';
 $color_json = file_get_contents($file);
 $colors = json_decode($color_json, true);
-rename($file, $file . '.old');
 
 $output = realpath(__DIR__ . '/../xliff');
 $xliffConfigs = [];
