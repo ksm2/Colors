@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<xliff version="1.2"
+       xmlns="urn:oasis:names:tc:xliff:document:1.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2.xsd">
+    <file original="colors.json" source-language="en" target-language="fr" datatype="plaintext">
+        <body>
+            <trans-unit id="blue">
+                <source>blue</source>
+                <target>bleu</target>
+            </trans-unit>
+            <trans-unit id="brown">
+                <source>brown</source>
+                <target>brun</target>
+            </trans-unit>
+            <trans-unit id="cyan">
+                <source>cyan</source>
+                <target>cyanogène</target>
+            </trans-unit>
+            <trans-unit id="gray">
+                <source>gray</source>
+                <target>gris</target>
+            </trans-unit>
+            <trans-unit id="green">
+                <source>green</source>
+                <target>vert</target>
+            </trans-unit>
+            <trans-unit id="magenta">
+                <source>magenta</source>
+                <target>magenta</target>
+            </trans-unit>
+            <trans-unit id="orange">
+                <source>orange</source>
+                <target>orange</target>
+            </trans-unit>
+            <trans-unit id="red">
+                <source>red</source>
+                <target>rouge</target>
+            </trans-unit>
+            <trans-unit id="turquoise">
+                <source>turquoise</source>
+                <target>turquoise</target>
+            </trans-unit>
+            <trans-unit id="violet">
+                <source>violet</source>
+                <target>violet</target>
+            </trans-unit>
+            <trans-unit id="yellow">
+                <source>yellow</source>
+                <target>jaune</target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>

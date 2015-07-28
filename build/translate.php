@@ -49,30 +49,18 @@ $primaryColors = array(
 );
 
 foreach ($colors as &$color) {
-    edit($color);
-}
-
-save();
-
-function edit(&$color)
-{
-    global $target;
-    global $primaryColors;
-    global $primary;
-    global $colors;
-
     /** @var string $name */
     /** @var array $translations */
     extract($color);
 
     // Skip already set translations.
     if (isset($translations[$target])) {
-        return;
+        continue;
     }
 
     // Skip other colors if in primary mode.
     if ($primary && !in_array($name, $primaryColors)) {
-        return;
+        continue;
     }
 
     echo "Translate \033[1;32m$name\033[m:\n";
@@ -84,16 +72,17 @@ function edit(&$color)
 
     if (empty($text)) {
         echo "\033[0;31mLeft translation empty for $name\033[m\n";
-        return;
+        continue;
     }
 
     $color['translations'][$target] = $text;
-    save();
+    save($colors);
 }
 
-function save()
+save($colors);
+
+function save($colors)
 {
-    global $colors;
     file_put_contents(__DIR__ . ' /../colors.json', json_encode($colors));
     echo "Saved translations.\n";
 }
